@@ -1,4 +1,4 @@
-# Angular-Getting Started
+# Angular
 
 
 See the `README.md` file under each folder for details on installing and running the application.
